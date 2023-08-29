@@ -4,7 +4,9 @@ control the image's red, green, and blue layers to separate or overlap them. Adj
 
 **How many colors are there in the RGB color space?**  
 Each of the primary colors or “color channels” as they are also known (red, green and blue) can be assigned a value from 0 to 255, so there are 256 possible values ​​for each channel. To find the total number of possible colors, we multiply the number of colors available in each channel. That gives us 256 3 , or 16,777,216, which is why people often say that there are 16.7 million colors.  
-![images](https://github.com/exponeciale/Terminal-RGB-Color-Adjuster/assets/132215795/9cf9db73-1757-441f-98a3-a38bc6b3769f)  
+
+![images](https://github.com/exponeciale/Terminal-RGB-Color-Adjuster/assets/132215795/9cf9db73-1757-441f-98a3-a38bc6b3769f) 
+
 The primary colors of the RGB model and some examples of mixed colors produced using the additive method. You can picture this as three spotlights (one red, one green, one blue) that partially overlap one another. If all the colors are “switched off” (=0), all that’s left is black.  
 
 https://github.com/exponeciale/Terminal-RGB-Color-Adjuster/assets/132215795/45d81d71-a2f7-4509-ae93-f36a3b5e9c98
