@@ -9,5 +9,5 @@ Each of the primary colors or “color channels” as they are also known (red, 
 
 The primary colors of the RGB model and some examples of mixed colors produced using the additive method. You can picture this as three spotlights (one red, one green, one blue) that partially overlap one another. If all the colors are “switched off” (=0), all that’s left is black.  
 
-https://github.com/exponeciale/Terminal-RGB-Color-Adjuster/assets/132215795/45d81d71-a2f7-4509-ae93-f36a3b5e9c98
+https://github.com/exponeciale/Terminal-RGB-Color-Adjuster/assets/132215795/478bfc8e-6bad-4797-b929-bebab2cbe5de
 
